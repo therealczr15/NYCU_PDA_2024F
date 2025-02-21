@@ -5,8 +5,8 @@
 - Semester : Fall 2024
 - Professor : Humg-Ming, Chen
 - Registered numbers : 158
-- Withdrawls : 77
-- Average : 85.62 (Excluding withdrawls)
+- Withdrawals : 77
+- Average : 85.62 (Excluding withdrawlas)
 - Objectives : 
 
 ## Score
