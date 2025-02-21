@@ -73,14 +73,45 @@ make clean
 This will delete the obj/ , output/ and layout/ directories as well as the executable files.
 
 ## Results
-| testcase0                               |
-|:---------------------------------------:|
-| ![testcase0.jpg](drawing/testcase0.jpg) |
 
-| testcase1                               |
-|:---------------------------------------:|
-| ![testcase1.jpg](drawing/testcase1.jpg) |
+<table>
+  <tr>
+    <th colspan="2" style="text-align:center;">testcase0</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Before Routing</b></td>
+    <td align="center"><b>After Routing</b></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><img src="publicCase/testcase0/placement.png" width="500"></td>
+    <td style="text-align:center;"><img src="drawing/testcase0.jpg" width="500"></td>
+  </tr>
+</table>
 
-| testcase2                               |
-|:---------------------------------------:|
-| ![testcase2.jpg](drawing/testcase2.jpg) |
+<table>
+  <tr>
+    <th colspan="2" style="text-align:center;">testcase1</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Before Routing</b></td>
+    <td align="center"><b>After Routing</b></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><img src="publicCase/testcase1/placement.png" width="500"></td>
+    <td style="text-align:center;"><img src="drawing/testcase1.jpg" width="500"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2" style="text-align:center;">testcase2</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Before Routing</b></td>
+    <td align="center"><b>After Routing</b></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><img src="publicCase/testcase2/placement.png" width="500"></td>
+    <td style="text-align:center;"><img src="drawing/testcase2.jpg" width="500"></td>
+  </tr>
+</table>
