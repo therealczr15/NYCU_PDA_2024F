@@ -54,6 +54,12 @@ To process the program, use:
 make exe
 ```
 
+## Verification
+To verify the correctness, use:
+```sh
+make check
+```
+
 ## Generating Visualization Layout Images
 After running the floorplanner, you can visualize the final floorplan layout using the provided scripts:
 ```sh
