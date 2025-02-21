@@ -14,7 +14,7 @@ This project provides the following core functionalities:
 
 ## Files Structure
 ```sh
-📂 PDA_Lab1/
+📂 Lab1/
 ├── 📁 drawing/                 # Layout images 
 ├── 📁 inc/                     # Header files
 ├── 📁 layout/                  # txt files for visualization
