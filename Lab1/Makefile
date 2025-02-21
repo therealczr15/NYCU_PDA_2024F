@@ -28,7 +28,7 @@ $(OUTDIR):
 $(LAYDIR):
 	@mkdir $(LAYDIR)
 
-CS: main.cpp $(OBJS)
+Lab1: main.cpp $(OBJS)
 	$(CXX) $(WARNINGS) $(CXXFLAGS) $^ -o $@
 
 exe:
