@@ -57,6 +57,7 @@ make check
 ```
 
 If there are no errors, you will see a result similar to the image below.
+![Evaluation.png](Evaluation.png)
 
 ## Generating Visualization Layout Images
 After running the D2DGRter, you can visualize the final layout using the provided scripts:
