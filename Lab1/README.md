@@ -1,4 +1,4 @@
-# PDA Lab1 - Corner Stitching
+# Corner Stitching
 
 ## Overview
 This project implements the ***Corner Stitching*** data structure for efficient spatial data management. <br>
@@ -15,15 +15,15 @@ This project provides the following core functionalities:
 ## Files Structure
 ```sh
 📂 PDA_Lab1/
-├── 📁 drawing/                 # Generated images after execution
+├── 📁 drawing/                 # Layout images 
 ├── 📁 inc/                     # Header files
 ├── 📁 layout/                  # txt files for visualization
 ├── 📁 obj/                     # Compiled object files (generated during compilation)
-├── 📁 output/                  # Output text files
+├── 📁 output/                  # Output txt files
 ├── 📁 src/                     # Source files
 ├── 📁 testcase/                # Testcases
-├── 📄 2024PDA_Lab1.pdf         # Lab1 problem description
-├── 📄 Lab1 Supplementary.pdf   # Supplementary of Lab1
+├── 📄 2024PDA_Lab1.pdf         # Detailed problem description
+├── 📄 Lab1 Supplementary.pdf   # Supplementary
 ├── ⚙️ Makefile                 # Build automation script
 ├── 🖼️ draw.sh                  # Script to generate images automatically
 ├── 🖥️ draw_block_layout.py     # Python script for visualization
