@@ -1,0 +1,21 @@
+RoutingArea 12 0 192 120
+Chip1 12 20 82 80
+Chip2 122 40 192 110
+BumpChip1 12 50
+BumpChip1 72 30
+BumpChip1 22 40
+BumpChip1 42 70
+BumpChip1 62 30
+BumpChip1 52 60
+BumpChip2 162 60
+BumpChip2 122 90
+BumpChip2 152 80
+BumpChip2 132 50
+BumpChip2 182 90
+BumpChip2 122 40
+Connection 62 30 182 30 182 90
+Connection 22 40 22 80 152 80
+Connection 12 50 72 50 72 60 162 60
+Connection 72 30 72 90 122 90
+Connection 42 70 122 70 122 50 132 50
+Connection 52 60 72 60 72 50 102 50 102 40 122 40
