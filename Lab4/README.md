@@ -57,7 +57,7 @@ make check
 ```
 
 If there are no errors, you will see a result similar to the image below.
-![Evaluator.png](Evaluator.png)
+![Evaluation.png](Evaluation.png)
 
 ## Generating Visualization Layout Images
 After running the floorplanner, you can visualize the final floorplan layout using the provided scripts:
