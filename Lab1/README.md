@@ -13,4 +13,5 @@ This project provides the following core functionalities:
 - Enumerate All Tiles – Traverse and output all tiles in the corner stitching structure.
 
 ## Results
-![Visualization](drawing/layout4.png)
+![Visualization](drawing/layout4.png) ![Visualization](drawing/layout5.png)
+![Visualization](drawing/layout6.png) ![Visualization](drawing/layout7.png)
