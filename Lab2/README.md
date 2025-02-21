@@ -71,3 +71,11 @@ This will delete the obj/ , output/ and layout/ directories as well as the execu
 | ami33                           |
 |:-------------------------------:|
 | ![ami33.jpg](drawing/ami33.jpg) |
+
+| ami49                           |
+|:-------------------------------:|
+| ![ami49.jpg](drawing/ami49.jpg) |
+
+| vda317b                             |
+|:-----------------------------------:|
+| ![vda317b.jpg](drawing/vda317b.jpg) |
