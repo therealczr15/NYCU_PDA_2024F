@@ -4,7 +4,7 @@
 This project implements the ***Corner Stitching*** data structure for efficient spatial data management. <br>
 The goal is to organize space tiles as maximal horizontal stripes, ensuring no adjacent space tiles exist on the left or right while maximizing tile width.
 
-For more detailed problem description: [2024PDA_Lab1.pdf](2024PDA_Lab1.pdf)
+For more details, refer to: [2024PDA_Lab1.pdf](2024PDA_Lab1.pdf)
 
 ## Implementation
 This project provides the following core functionalities:
@@ -44,8 +44,8 @@ To process the program, use:
 make exe
 ```
 
-## Generate Visualization Layout Images
-To generate layout images, use:
+## Generating Visualization Layout Images
+You can visualize the final layout using the provided scripts:
 ```sh
 bash draw.sh
 ```
