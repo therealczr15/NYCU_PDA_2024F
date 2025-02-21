@@ -24,7 +24,7 @@ This project employs ***Sequence Pair Representation*** combined with ***Simulat
 
 ## Files Structure
 ```sh
-📂 PDA_Lab1/
+📂 Lab2/
 ├── 📁 drawing/     # Layout images 
 ├── 📁 inc/         # Header files
 ├── 📁 layout/      # txt files for visualization
@@ -36,7 +36,7 @@ This project employs ***Sequence Pair Representation*** combined with ***Simulat
 ├── ⚙️ Makefile     # Build automation script
 ├── 🖥️ draw.py      # Python script for visualization
 ├── 🖼️ draw.sh      # Script to generate images automatically
-└── 📜 main.cpp
+├── 📜 main.cpp
 └── 🛠️ verifier     # For verification
 
 ```
@@ -46,7 +46,7 @@ To compile all source files, run the following command:
 ```sh
 make
 ```
-This will compile all source files and generate an executable file - Lab1.
+This will compile all source files and generate an executable file - Lab2.
 
 ## Execution
 To process the program, use:
