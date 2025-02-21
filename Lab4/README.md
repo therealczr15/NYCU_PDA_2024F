@@ -52,7 +52,7 @@ make exe
 
 ## Verification & Evaluation
 To verify and evaluate, use:
-```sh
+```sh 
 make check
 ```
 
