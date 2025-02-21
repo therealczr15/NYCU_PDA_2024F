@@ -11,7 +11,7 @@
 
 ## Score
 - Total Score : 107.30 (105%)
-- Rank : 2 / 77
+- Rank : 2 / 81
 
 |Lab             |Topic         | Performance Rank   |Score   |Weight |
 |:---------------|:-------------|:------------------:|:------:|:-----:|
