@@ -15,7 +15,7 @@ SRCS = $(wildcard $(SRCDIR)/*.cpp)
 OBJS = $(patsubst $(SRCDIR)/%.cpp,$(OBJDIR)/%.o,$(SRCS))
 
 # Name of the executable
-TARGET = CS
+TARGET = Lab1
 
 all: $(TARGET) $(OUTDIR) $(LAYDIR)
 
