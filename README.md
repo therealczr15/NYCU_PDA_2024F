@@ -1,8 +1,8 @@
-# NYCU Physical Design Automation 2024 Fall
+# NYCU Physical Design Automation Fall 2024
 
 ## Course Information
 - Title : Physical Design Automation (PDA)
-- Semester : 2024 Fall
+- Semester : Fall 2024
 - Professor : Humg-Ming, Chen
 - Registered numbers : 158
 - Withdrawls : 77
