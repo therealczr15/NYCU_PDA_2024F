@@ -7,7 +7,6 @@
 - Registered numbers : 158
 - Withdrawals : 77
 - Average : 85.62 (Excluding withdrawlas)
-- Objectives : 
 
 ## Score
 - Total Score : 107.30 (105%)
