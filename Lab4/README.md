@@ -56,6 +56,9 @@ To verify and evaluate, use:
 make check
 ```
 
+If there are no errors, you will see a result similar to the image below.
+![Evaluation.png](Evaluation.png)
+
 ## Generating Visualization Layout Images
 After running the floorplanner, you can visualize the final floorplan layout using the provided scripts:
 ```sh
