@@ -1,4 +1,4 @@
-# NYCU Physical Design Automation Fall 2024
+# Fall 2024 NYCU Physical Design Automation
 
 ## Course Information
 - Title : Physical Design Automation (PDA)
