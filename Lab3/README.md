@@ -26,10 +26,6 @@ y = \text{total displacement from initial position (Manhattan Distance)}
 
 For more details, refer to: [https://hackmd.io/@coherent17/PDA_Lab3](https://hackmd.io/@coherent17/PDA_Lab3)
 
-## Implementation
-This project employs A* Search Algorithm to efficiently find minimum-cost paths between bump pairs while respecting routing constraints.
-- A* Search Algorithm – Combines Dijkstra’s Algorithm with a heuristic function for faster convergence.
-
 ## Files Structure
 ```sh
 📂 Lab4/
