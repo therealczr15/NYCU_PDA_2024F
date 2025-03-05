@@ -73,10 +73,16 @@ This will delete the obj/ directories as well as the executable files.
 
 ## Results
 
-![testcase1_ALL0_5000](https://github.com/user-attachments/assets/d137f2d1-a329-48df-ace6-2ce4355dabad)
+Generated from [GenMP4](https://github.com/coherent17/Optimizer-and-Legalizer-Co-optimization/tree/main/GenMP4)
+
+| testcase1_ALL0_5000                                                                                   |
+|:-----------------------------------------------------------------------------------------------------:|
+|![testcase1_ALL0_5000](https://github.com/user-attachments/assets/d137f2d1-a329-48df-ace6-2ce4355dabad)|
 
 
-![testcase1_MBFF_LIB_7000](https://github.com/user-attachments/assets/251dd18a-b4d3-40e6-8ec1-29dcf2fa3761)
+| testcase1_MBFF_LIB_7000                                                                                   |
+|:---------------------------------------------------------------------------------------------------------:|
+|![testcase1_MBFF_LIB_7000](https://github.com/user-attachments/assets/251dd18a-b4d3-40e6-8ec1-29dcf2fa3761)|
 
 
 
