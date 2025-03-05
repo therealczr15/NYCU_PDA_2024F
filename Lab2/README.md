@@ -18,7 +18,7 @@ where:
 For more details, refer to: [Lab2.pdf](Lab2.pdf)
 
 ## Implementation
-This project employs ***Sequence Pair Representation*** combined with ***Simulated Annealing*** to efficiently explore the solution space and optimize floorplan placement.
+This project employs ***Sequence Pair Representation*** combined with ***Simulated Annealing*** to efficiently explore the solution space and optimize fix-outline floorplan.
 - Simulated Annealing – A probabilistic optimization technique used to escape local minima and achieve global optimization in minimizing cost.
 - Sequence Pair Representation – A P* admissible floorplan representation, enabling flexible block placement.
 
